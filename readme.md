@@ -21,7 +21,7 @@ This project is a web application for creating ARC3 NFTs (Non-Fungible Tokens) o
 ## Project Structure
 
 ```
-/C:/Users/Satish chandra/Projects/task-1
+/ARC3-NFT-Creation
 │
 ├── app.py                  # Main application file
 ├── templates/
@@ -48,8 +48,8 @@ This project is a web application for creating ARC3 NFTs (Non-Fungible Tokens) o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/task-1.git
-   cd task-1
+   git clone https://github.com/SatishGAXL/ARC3-NFT-Creation.git
+   cd ARC3-NFT-Creation
    ```
 
 2. Install the required packages:
